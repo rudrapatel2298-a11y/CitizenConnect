@@ -1,4 +1,4 @@
-# civicsetu
+# CitizenConnect
 # 🏙️ Smart Civic Issue Reporting and Management System
 
 *A Smart India Hackathon project developed to streamline civic issue reporting through a cross-platform mobile application built with React Native and Expo.*
